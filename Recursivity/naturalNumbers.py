@@ -1,0 +1,1 @@
+# Escribir una función recursiva que halle la suma de los primeros "n" números naturales.

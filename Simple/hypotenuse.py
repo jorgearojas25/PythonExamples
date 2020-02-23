@@ -1,0 +1,1 @@
+# Escribir un programa que calcule la hipotenusa de un triángulo rectángulo
