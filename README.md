@@ -46,7 +46,7 @@
  1. [Crear un módulo de funciones aritméticas que realicen las operaciones de suma, resta,
  multiplicación, división y potencia de enteros, escribir un programa que importe este
  módulo y use estas funciones para operar con números capturados desde el teclado.](https://github.com/jorgearojas25/PythonExamples/blob/Develop/Modules/basicOperations.py)
-  2. [# Crear un módulo que permita validar un número según la base en la cual este expresado, las bases validas deben ser 2, 8, 10 y 16.](https://github.com/jorgearojas25/PythonExamples/blob/Develop/Modules/validateBases.py)
+  2. [Crear un módulo que permita validar un número según la base en la cual este expresado, las bases validas deben ser 2, 8, 10 y 16.](https://github.com/jorgearojas25/PythonExamples/blob/Develop/Modules/validateBases.py)
 
 ## Files
  1. [Escribir un programa que escriba la lista de caracteres ASCII dentro de un archivo de texto](https://github.com/jorgearojas25/PythonExamples/blob/Develop/Files/write.py)
