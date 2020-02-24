@@ -58,4 +58,4 @@
  1. [Escribir un programa que implemente un calendario perpetuo, es decir, que dado una fecha
 en formato mes, día y año le retorne al usuario el día de la semana que corresponde para esta
 fecha.](https://github.com/jorgearojas25/PythonExamples/blob/Develop/Others/scheduler.py)
-  2. [Modifique el ejercicio anterior para que el conteo se haga hacia atrás desde el tiempo leído hasta cero](https://github.com/jorgearojas25/PythonExamples/blob/Develop/Others/reverseTimer.py)
+  2. [El conteo se haga hacia atrás desde el tiempo leído hasta cero](https://github.com/jorgearojas25/PythonExamples/blob/Develop/Others/reverseTimer.py)
