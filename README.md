@@ -1,5 +1,7 @@
 # PythonExamples
 
+  *Ejercicion tomados del [taller de programacion en pythyon](https://github.com/apdaza/universidad-ejercicios/blob/master/python/solucion%20guia%20ejercicios/ejercios%20pbas.pdf) de la [Universidad Ditrital Francisco Jose de Caldas](https://udistrital.edu.co/)*
+
 ## Simples
   1. [Escribir un programa que calcule la hipotenusa de un triángulo rectángulo](https://github.com/jorgearojas25/PythonExamples/blob/Develop/Simple/hypotenuse.py)
   2. [Escribir un programa que calcula el IVA (16%) de un producto dado su valor de venta sin IVA.](https://github.com/jorgearojas25/PythonExamples/blob/Develop/Simple/IVA.py)
