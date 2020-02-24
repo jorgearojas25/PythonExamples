@@ -53,5 +53,5 @@
   2. [Escribir un programa que lea y muestre en pantalla el archivo generado en el ejercicio anterior](https://github.com/jorgearojas25/PythonExamples/blob/Develop/Files/read.py)
 
 ## Others
- 1. [Escribir un programa que calcule la hipotenusa de un triángulo rectángulo](https://github.com/jorgearojas25/PythonExamples/blob/Develop/Simple/hypotenuse.py)
-  2. [Escribir un programa que calcula el IVA (16%) de un producto dado su valor de venta sin IVA.](https://github.com/jorgearojas25/PythonExamples/blob/Develop/Simple/IVA.py)
+ 1. [Escribir un programa que lea un tiempo en horas, minutos y segundos y empiece a cronometrar el tiempo mostrándolo en pantalla hasta llegar al limite leído al inicio](https://github.com/jorgearojas25/PythonExamples/blob/Develop/Others/timer.py)
+  2. [Modifique el ejercicio anterior para que el conteo se haga hacia atrás desde el tiempo leído hasta cero](https://github.com/jorgearojas25/PythonExamples/blob/Develop/Others/reverseTimer.py)
